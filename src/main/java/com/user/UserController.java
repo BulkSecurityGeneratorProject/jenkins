@@ -6,4 +6,6 @@ package com.user;
  * @desc
  **/
 public class UserController {
+
+
 }
